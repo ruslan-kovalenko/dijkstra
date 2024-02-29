@@ -1,5 +1,3 @@
-# dots
-
 ## Project setup
 
 ```
